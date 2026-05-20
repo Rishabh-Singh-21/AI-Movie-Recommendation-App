@@ -1,5 +1,4 @@
-# AI-Movie-Recommendation-App
-A Machine Learning based Movie Recommendation System built with Python, Streamlit, and TMDB API that suggests similar movies with posters.
+
 
 # 🎬 Movie Recommender System
 
@@ -24,11 +23,6 @@ Built using:
 
 ---
 
-## 📷 Demo
-
-(Add screenshots here)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +54,7 @@ Built using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Movie-Recommender-System.git
+
 ```
 
 Move into the directory:
